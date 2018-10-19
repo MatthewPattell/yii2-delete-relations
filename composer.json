@@ -1,5 +1,5 @@
 {
-  "name": "mattew-p/yii2-delete-relations",
+  "name": "matthew-p/yii2-delete-relations",
   "description": "Yii2 delete relations behavior",
   "type": "yii2-extension",
   "keywords": ["yii2","extension","relation","behavior","delete"],
